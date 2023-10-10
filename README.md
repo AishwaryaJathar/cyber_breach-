@@ -1,6 +1,7 @@
 # cyber_breach-
 cyber breach prediction (url classsification) using machine learning techniques
-Introduction
+
+**Introduction**
 
 
 The need to protect our digital assets from an ongoing assault of cyber threats has risen to unprecedented levels in today's digitally interconnected society. Our study orchestrates an effective combination of cutting-edge machine learning approaches, including the Random Forest algorithm, the Naive Bayes classifier, the k-Nearest Neighbors (k-NN) model, and the XGBoost algorithm, to tackle this constantly shifting difficulty head-on. Our project now can analyse a broad range of cybersecurity data sources to improve predicted accuracy for proactive threat mitigation thanks to this deliberate amalgamation.
@@ -8,10 +9,10 @@ This project's fundamental value is user-friendliness, with an easy interface th
 This project aims to quantitatively examine each model's accuracy and computational efficiency, revealing light on their unique features and decisions. By leveraging these models' remarkable predictive powers, our effort promotes improving cybersecurity policies, protecting critical systems, and assuring a secure digital future.
 
 
-Research Methodology 
+**Research Methodology** 
 
 
-Description of models:
+*Description of models*:
 
 Random Forest:
 Definition: Random Forest is an ensemble learning method that combines multiple decision tre es to make predictions. It reduces overfitting and improves model accuracy.
@@ -49,7 +50,7 @@ When used in text classification, TF-IDF Vectorization helps models understand t
 
 
 
-Process Model:
+*Process Model*:
                                         
 Data Collection: The project begins by acquiring a comprehensive dataset containing URLs, each labelled to classify them into distinct categories of maliciousness. This dataset serves as the foundation for training and evaluating the machine learning models.
 Data Preprocessing: Prior to model training, the dataset undergoes a series of essential preprocessing steps. This includes thorough data cleaning, feature extraction, and transformation to prepare the data for machine learning readiness. These measures ensure the dataset's quality and usability for subsequent stages.
